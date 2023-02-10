@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["argsort", "dtype", "matplotlib", "pyedflib", "pyplot"]
+  "cSpell.words": [
+    "argsort",
+    "convolutional",
+    "dtype",
+    "matplotlib",
+    "pyedflib",
+    "pyplot"
+  ]
 }
